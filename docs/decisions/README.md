@@ -1,0 +1,1 @@
+This is where details on all the decisions made while building the plugin will be stored
