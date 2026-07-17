@@ -1,0 +1,1 @@
+This is where details on the overall plugin Architecture will be stored

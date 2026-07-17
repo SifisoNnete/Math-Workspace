@@ -1,0 +1,1 @@
+This is where details on how to contribute to this repository will be stored
